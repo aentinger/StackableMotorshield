@@ -1,0 +1,26 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_Stackable_Motorshield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_speed	KEYWORD2
+get_speed	KEYWORD2
+set_direction	KEYWORD2
+get_direction	KEYWORD2
+enable_encoder	KEYWORD2
+disable_encoder	KEYWORD2
+encoder_enabled	KEYWORD2
+read_encoder_1	KEYWORD2
+read_encoder_2	KEYWORD2
+turn_orange_led_on	KEYWORD2
+turn_orange_led_off	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX_MOTOR_SPEED	LITERAL1
