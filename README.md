@@ -1,11 +1,15 @@
-LXR_Stackable_Motorshield
-=========================
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+LXRobotics P2 StackableMotorshield
+==============
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+![LXRobotics P2 StackableMotorshield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_stackable_motorshield_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+## Weitere Informationen / Further Information
 
-Weitere Informationen unter:
+* **DE:** https://www.lxrobotics.com/produkte/arduino-shields/stackable-motorshield-high-power
+* **EN:** https://www.lxrobotics.com/en/products/arduino-shields/stackable-motorshield
 
-http://www.lxrobotics.com/produkte/arduino-shields/stackable-motorshield-high-power
+## Lizenz / License
+SÃ¤mtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 Unported)
+
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
