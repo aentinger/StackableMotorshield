@@ -27,4 +27,4 @@ The Stackable Motorshield facilitates the control of up to 8 high power motors (
 
 # Video
 
-[![VIDEO1](http://img.youtube.com/vi/2M2tKpRYI7Y/.jpg)](https://www.youtube.com/watch?v=2M2tKpRYI7Y "LXRobotics Stackable Motorshield")
+[![VIDEO1](http://img.youtube.com/vi/2M2tKpRYI7Y/0.jpg)](https://www.youtube.com/watch?v=2M2tKpRYI7Y "LXRobotics Stackable Motorshield")
